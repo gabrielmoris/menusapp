@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d699c7a5-3d7b-41e6-ad59-1ac2ee3a9026"
+      }
+    },
+    "owner": "gabrielcmoris"
   }
 }
