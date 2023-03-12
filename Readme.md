@@ -7,3 +7,7 @@
 (React native 3rd. party libraries)[https://reactnative.directory/]
 (React native Core Components)[https://reactnative.dev/docs/components-and-apis]
 (React native Styling guide)[https://reactnative.dev/docs/style]
+
+# Configuration and distribution app to stores
+
+(Learn more Expo)[https://docs.expo.dev/tutorial/follow-up/]
